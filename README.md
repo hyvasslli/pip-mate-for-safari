@@ -68,3 +68,22 @@ Websites you visit, Apple’s App Store and TestFlight, and this GitHub support 
 ### Privacy questions
 
 Contact the developer through the [support issues page](https://github.com/hyvasslli/pip-mate-for-safari/issues). Changes to this policy will be published here with an updated date.
+
+
+## TaskGlance
+
+TaskGlance is a simple task list for iPhone, iPad, and Mac with adjustable widgets, completion history, scheduling, reminders, archiving, and iCloud synchronization.
+
+### TaskGlance Support
+
+For help, [open a support request](https://github.com/hyvasslli/pip-mate-for-safari/issues/new) or [browse existing issues](https://github.com/hyvasslli/pip-mate-for-safari/issues). Include your device, OS version, app version, and steps to reproduce. Do not post task contents, passwords, or personal information because GitHub issues are public.
+
+### TaskGlance Privacy Policy
+
+Last updated: September 18, 2026
+
+TaskGlance stores tasks, notes, scheduled dates, reminder settings, and completion states on the user's device. It uses Apple iCloud to synchronize this information between devices signed in to the same Apple Account. Widgets read task summaries from shared app storage, and reminders use the device notification service.
+
+TaskGlance includes no advertising, tracking, or third-party analytics. The developer does not operate a server that receives task content. Apple provides iCloud under its applicable policies. Deleting a task can propagate to the user's other devices through iCloud synchronization.
+
+Information voluntarily submitted through GitHub support is handled by GitHub and may be public. Users should not include sensitive information in support issues. Privacy questions can be submitted through the support issues page.
